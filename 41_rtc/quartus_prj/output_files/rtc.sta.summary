@@ -1,0 +1,173 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : -7.590
+TNS   : -7.964
+
+Type  : Slow 1200mV 85C Model Setup 'sys_clk'
+Slack : -3.870
+TNS   : -195.012
+
+Type  : Slow 1200mV 85C Model Setup 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -3.850
+TNS   : -295.534
+
+Type  : Slow 1200mV 85C Model Setup 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -0.236
+TNS   : -0.776
+
+Type  : Slow 1200mV 85C Model Hold 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : -1.051
+TNS   : -6.940
+
+Type  : Slow 1200mV 85C Model Hold 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -0.808
+TNS   : -5.704
+
+Type  : Slow 1200mV 85C Model Hold 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -0.678
+TNS   : -11.198
+
+Type  : Slow 1200mV 85C Model Hold 'sys_clk'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -3.957
+TNS   : -3.957
+
+Type  : Slow 1200mV 85C Model Removal 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 3.075
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.000
+TNS   : -159.135
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -1.487
+TNS   : -159.109
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : -6.941
+TNS   : -7.361
+
+Type  : Slow 1200mV 0C Model Setup 'sys_clk'
+Slack : -3.526
+TNS   : -172.465
+
+Type  : Slow 1200mV 0C Model Setup 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -3.468
+TNS   : -271.023
+
+Type  : Slow 1200mV 0C Model Setup 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -0.135
+TNS   : -0.242
+
+Type  : Slow 1200mV 0C Model Hold 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : -0.938
+TNS   : -6.215
+
+Type  : Slow 1200mV 0C Model Hold 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -0.718
+TNS   : -4.910
+
+Type  : Slow 1200mV 0C Model Hold 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -0.635
+TNS   : -10.168
+
+Type  : Slow 1200mV 0C Model Hold 'sys_clk'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -3.422
+TNS   : -3.422
+
+Type  : Slow 1200mV 0C Model Removal 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 2.698
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.000
+TNS   : -159.135
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -1.487
+TNS   : -159.109
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : 0.154
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : -3.191
+TNS   : -3.191
+
+Type  : Fast 1200mV 0C Model Setup 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -1.238
+TNS   : -66.565
+
+Type  : Fast 1200mV 0C Model Setup 'sys_clk'
+Slack : -1.070
+TNS   : -40.710
+
+Type  : Fast 1200mV 0C Model Setup 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : -0.475
+TNS   : -3.113
+
+Type  : Fast 1200mV 0C Model Hold 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -0.374
+TNS   : -2.650
+
+Type  : Fast 1200mV 0C Model Hold 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -0.370
+TNS   : -6.612
+
+Type  : Fast 1200mV 0C Model Hold 'sys_clk'
+Slack : -0.059
+TNS   : -0.059
+
+Type  : Fast 1200mV 0C Model Recovery 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : -1.664
+TNS   : -1.664
+
+Type  : Fast 1200mV 0C Model Removal 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 1.851
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : -3.000
+TNS   : -115.496
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|i2c_clk'
+Slack : -1.000
+TNS   : -107.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|state.RD_DATA'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i2c_ctrl:i2c_ctrl_inst|cnt_i2c_clk[0]'
+Slack : 0.402
+TNS   : 0.000
+
+------------------------------------------------------------
